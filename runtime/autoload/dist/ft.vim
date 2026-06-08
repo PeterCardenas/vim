@@ -1814,6 +1814,8 @@ const ft_from_ext = {
   "fb": "freebasic",
   # Batch file for MSDOS. See dist#ft#FTsys for *.sys
   "bat": "dosbatch",
+  # Bazel rc
+  "bazelrc": "bazelrc",
   # BC calculator
   "bc": "bc",
   # BDF font

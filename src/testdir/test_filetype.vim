@@ -154,6 +154,7 @@ def s:GetFilenameChecks(): dict<list<string>>
     brightscript: ['file.brs'],
     bsdl: ['file.bsd', 'file.bsdl'],
     bst: ['file.bst'],
+    bazelrc: ['.bazelrc', 'file.bazelrc'],
     bzl: ['file.bazel', 'file.bzl', 'file.bxl', 'WORKSPACE', 'WORKSPACE.bzlmod'],
     bzr: ['bzr_log.any', 'bzr_log.file'],
     c: ['enlightenment/file.cfg', 'file.qc', 'file.c', 'some-enlightenment/file.cfg', 'file.mdh', 'file.epro'],
